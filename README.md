@@ -9,9 +9,9 @@ This tool protects **e-commerce websites, corporate portals, and critical online
 
 ---
 
-## 🎥 How WDAT Works
+## 💻 How WDAT Works
 
-### Cinematic Workflow:
+### 📟Overall Workflow:
 
 1️⃣ **Website Monitoring**  
 WDAT continuously monitors the target website's content, including text, images, and product details.
@@ -32,7 +32,7 @@ Admins receive the alert and can respond immediately through the WDAT GUI dashbo
 
 ---
 
-## 🚀 Key Features
+## 🧩 Key Features
 
 | Feature | Description |
 |----------|-------------|
@@ -124,26 +124,12 @@ python main.py
 
 ---
 
-## 🤝 Contribution
+## 📜 License
+Licensed under the **MIT License**.
 
-Pull requests are welcome.  
-For major changes, please open an issue first to discuss what you would like to change.
+## 👨‍💻 About the Developer
+Developed by **Fayiz M P**, a passionate **Cybersecurity Engineer & Developer** focused on creating secure and innovative applications.
 
----
+☣️ 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭𝐬 – 𝐋𝐞𝐭’𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 & 𝐆𝐫𝐨𝐰 𝐓𝐨𝐠𝐞𝐭𝐡𝐞𝐫!🔐
 
-## 📄 License
-
-This project is licensed under the **MIT License**.  
-See the [LICENSE](LICENSE) file for details.
-
----
-
-## 📬 Contact
-
-**Fayiz M P**  
-📧 Email: fayizmp2003@gmail.com  
-🔗 LinkedIn: [Fayiz M P](https://www.linkedin.com/in/fayizmp)
-
----
-
-## ⭐ Give this repo a star if you find it useful!
+🔗 [LinkedIn]www.linkedin.com/in/fayizmp | [GitHub]https://github.com/FAYIZ-MP

@@ -1,4 +1,5 @@
-<img width="3148" height="3148" alt="WDAT LOGO" src="https://github.com/user-attachments/assets/f511d2bb-4910-45fc-97ac-68fab004e967" />
+<img width="350" height="350" alt="WDAT LOGO (4)" src="https://github.com/user-attachments/assets/c5f94e39-5f43-49a6-a850-65aec83db0f8" />
+
 # 🛡️ WDAT - Web Defacement Alerting Tool
 
 ## 🔍 Overview

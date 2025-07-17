@@ -1,4 +1,4 @@
-
+<img width="3148" height="3148" alt="WDAT LOGO" src="https://github.com/user-attachments/assets/f511d2bb-4910-45fc-97ac-68fab004e967" />
 # 🛡️ WDAT - Web Defacement Alerting Tool
 
 ## 🔍 Overview
@@ -105,13 +105,28 @@ python main.py
 
 ---
 
-## 📊 Demo Preview
-
-🎥 **Video Demo:**  
-*(Add your Pika-generated video link here or YouTube link)*
-
 🖼️ **Visual Workflow:**  
-![WDAT Workflow](./path_to_your_flowchart.png)
+
+
+https://github.com/user-attachments/assets/8572a32e-c363-48f1-aad5-920a4b59a17c
+
+<img width="1919" height="1004" alt="Screenshot 2025-04-04 215026" src="https://github.com/user-attachments/assets/76c27f28-891d-4c48-b3d0-a25fa694754f" />
+
+
+<img width="1919" height="1003" alt="Screenshot 2025-04-04 215241" src="https://github.com/user-attachments/assets/72daf3ac-c705-45e8-bef8-45e32633d07c" />
+
+
+https://github.com/user-attachments/assets/cbd7507b-7779-4799-91c9-f908a1860443
+
+<img width="1919" height="1004" alt="Screenshot 2025-04-04 215054" src="https://github.com/user-attachments/assets/29e0d465-931a-403e-b52e-cd8fb623698e" />
+
+![WhatsApp Image 2025-04-08 at 1 24 15 PM (1)](https://github.com/user-attachments/assets/a74356bf-7920-4b26-804a-b3d850b26b5b)
+
+![WhatsApp Image 2025-04-08 at 1 24 15 PM](https://github.com/user-attachments/assets/43330df3-c4fe-49ad-b35f-74c7b2ca3400)
+
+![WDAT OFFICIAL PAGE](https://github.com/user-attachments/assets/b8eaaaf0-3422-41fd-8200-1394d051f4ed)
+
+<img width="1536" height="1024" alt="IMG20252689495404" src="https://github.com/user-attachments/assets/8889ca09-1ad1-469b-bd7e-ed707f0c752d" />
 
 ---
 

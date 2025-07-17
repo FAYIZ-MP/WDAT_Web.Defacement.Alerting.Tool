@@ -1,0 +1,33 @@
+{
+    "manifest_version": 3,
+    "name": "WDAT",
+    "version": "1.0",
+    "description": "Monitors e-commerce sites for unauthorized changes and alerts admins.",
+    
+    "permissions": ["storage", "activeTab", "scripting"],
+
+    "host_permissions": [
+        "file:///*"
+    ],
+
+    "background": {
+        "service_worker": "background.js"
+    },
+
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "icon.png",
+            "48": "icon.png",
+            "128": "icon.png"
+        }
+    },
+
+    "content_scripts": [
+        {
+            "matches": ["file:///*"],
+            "js": ["content.js"],
+            "run_at": "document_idle"
+        }
+    ]
+}
